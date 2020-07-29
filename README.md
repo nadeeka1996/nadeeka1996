@@ -12,9 +12,7 @@
 </head>
 <body>
 
-<p>If you click on me, I will disappear.</p>
-<p>Click me away!</p>
-<p>Click me too!</p>
+<a href="nadeeka.html">Click this To know about me ...</a>
 
 </body>
 </html>
