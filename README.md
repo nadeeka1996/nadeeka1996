@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on myfriends.
 - 🤔 I’m looking for help with ....
 - 💬 Ask me about anything.
-<!DOCTYPE html>
+
 <html>
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
