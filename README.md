@@ -12,7 +12,7 @@
 <!--</head>
 <body>
 
-<a href="nadeeka.html" ><h1>If you click this you can know about me😊😊😊</h1></a>
+<img src= "nadee.jpg">
 
 </body>
 </html>
