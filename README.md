@@ -8,6 +8,8 @@
 - 🔭 Familier languages are  Java SE , C 
 - 💬 also in linkedIn https://www.linkedin.com/in/nadeeka-priyadarshani-4113a1185/
 
+![Untitled-1](https://user-images.githubusercontent.com/52823755/90287079-c5022680-de94-11ea-8bf0-aed013972eea.jpg)
+
 <!--
 
 **nadeeka1996/nadeeka1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
