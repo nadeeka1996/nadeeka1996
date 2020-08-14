@@ -5,9 +5,10 @@
 - 👯 I’m looking to collaborate on myfriends.
 - 🤔 I’m looking for help with ....
 - 💬 Ask me about anything.
+- 🔭 Familier languages are  Java SE , C 
+- 💬 also in linkedIn https://www.linkedin.com/in/nadeeka-priyadarshani-4113a1185/
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1461749280684-dccba630e2f6%3Fixlib%3Drb-1.2.1%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcoding&tbnid=YDbjk8UMr2jowM&vet=12ahUKEwjC7d_mqpLrAhWFBbcAHdRMA0sQMygBegUIARDYAQ..i&docid=kCWKwglLTq1cAM&w=1000&h=668&q=coding%20images&ved=2ahUKEwjC7d_mqpLrAhWFBbcAHdRMA0sQMygBegUIARDYAQ)
-<!--
+
 **nadeeka1996/nadeeka1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
