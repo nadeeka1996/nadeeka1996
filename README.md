@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-
+😊😊😊👀
+  Thank you so much for visiting my page.
+  
 - 🌱 I’m currently learning computer science in university of Ruhuna.
 - 👯 I’m looking to collaborate on myfriends.
 - 🤔 I’m looking for help with ....
